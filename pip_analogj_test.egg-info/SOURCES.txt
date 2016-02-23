@@ -4,6 +4,7 @@ README.md
 VERSION
 requirements.txt
 setup.cfg
+setup.py
 pip_analogj_test.egg-info/PKG-INFO
 pip_analogj_test.egg-info/SOURCES.txt
 pip_analogj_test.egg-info/dependency_links.txt

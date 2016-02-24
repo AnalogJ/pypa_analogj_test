@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: pip-analogj-test
-Version: 1.0.4
+Version: 1.0.5
 Summary: test package
 Home-page: https://github.com/AnalogJ/pip_analogj_test
 Author: Jason Kulatunga
@@ -9,6 +9,7 @@ License: MIT
 Description: zxczxczx
         
         new
+        rterf
         
 Keywords: pip_analogj_test
 Platform: UNKNOWN

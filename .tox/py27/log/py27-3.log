@@ -1,0 +1,6 @@
+actionid: py27
+msg: envreport
+cmdargs: ['/tmp/683007104/pip_analogj_test/.tox/py27/bin/pip', 'freeze']
+env: {'GOPATH': '/go', 'PATH': '/tmp/683007104/pip_analogj_test/.tox/py27/bin:/go/bin:/usr/local/go/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'HOME': '/root', 'LANG': 'C.UTF-8', 'TERM': 'xterm', 'PYTHON_VERSION': '2.7.13', 'no_proxy': '*.local, 169.254/16, *.google.com, *.github.com, github.com, *.loggly, *.docker.com', 'PYTHON_PIP_VERSION': '9.0.1', 'CAPSULE_ENGINE_ENABLE_CODE_MUTATION': 'true', 'PYTHONHASHSEED': '2352048788', 'SSL_CERT_FILE': '/etc/ssl/certs/ca-certificates.crt', 'GPG_KEY': 'C01E1CAD5EA2C4F0B8E3571504C367C218ADD4FF', 'GO_VERSION': '1.8.3', 'CAPSULE_SCM_ENABLE_BRANCH_CLEANUP': 'true', 'VIRTUAL_ENV': '/tmp/683007104/pip_analogj_test/.tox/py27', 'PKG_CONFIG_PATH': '/usr/lib/pkgconfig/:/usr/local/lib/pkgconfig/:/usr/local/lib/libgit2/lib/pkgconfig:/usr/local/lib/openssl/lib/pkgconfig:/usr/local/lib/libssh2', 'CAPSULE_PYPI_PASSWORD': '73z6MerD4YkpzH$', '_': './capsulecd', 'CAPSULE_PYPI_USERNAME': 'analogj', 'CAPSULE_SCM_REPO_FULL_NAME': 'AnalogJ/pip_analogj_test', 'HOSTNAME': '1579c4de9a6c', 'CAPSULE_SCM_PULL_REQUEST': '8', 'SHLVL': '1', 'PWD': '/tmp/683007104/pip_analogj_test', 'CAPSULE_SCM_GITHUB_ACCESS_TOKEN': '5f4da51e4ca3f1637be3ce8854cf9e917b0f4337'}
+
+pip-analogj-test==1.0.8

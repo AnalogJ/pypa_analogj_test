@@ -22,7 +22,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='pip_analogj_test',
+    name='pypa_analogj_test',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
@@ -33,7 +33,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/AnalogJ/pip_analogj_test',
+    url='https://github.com/AnalogJ/pypa_analogj_test',
 
     # Author details
     author='Jason Kulatunga',
@@ -52,7 +52,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='pip_analogj_test',
+    keywords='pypa_analogj_test',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
@@ -66,7 +66,7 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['pip_analogj_test']
+    install_requires=['pypa_analogj_test']
 
     # Although 'package_data' is the preferred approach, in some case you may
     # need to place data files outside of your packages. See:
